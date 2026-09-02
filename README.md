@@ -7,6 +7,7 @@ It features **two complementary extraction engines**:
 2. **Tier 2 (AI-Powered Engine - Phase 2)**: Intelligent semantic understanding using **Chrome's Built-in Local AI (Gemini Nano)** or Bring-Your-Own-Key (BYOK) cloud LLMs (**Google Gemini**, **OpenAI**, **Anthropic Claude**, **Groq**, or local **Ollama** endpoints).
 
 ---
+
 ## Features
 
 ### ⚡ Mode A: "Extract Page" (100% Free & Local)
