@@ -8,7 +8,7 @@ It features **two complementary extraction engines**:
 
 ---
 
-## Features
+## Feature
 
 ### ⚡ Mode A: "Extract Page" (100% Free & Local)
 Scans the active document for embedded structured metadata:
