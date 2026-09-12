@@ -10,7 +10,6 @@ It features **two complementary extraction engines**:
 
 ## Feature
 
-
 ### ⚡ Mode A: "Extract Page" (100% Free & Local)
 Scans the active document for embedded structured metadata:
 - **JSON-LD (`<script type="application/ld+json">`)**: Automatically detects, parses, and unpacks Schema.org schemas like `Person`, `JobPosting`, `Product`, `Organization`, `LocalBusiness`, `Article`, `NewsArticle`, and more.
