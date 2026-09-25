@@ -6,7 +6,7 @@ It features **two complementary extraction engines**:
 1. **Tier 1 (Free Local Engine)**: 100% free, zero-dependency extraction using Schema.org JSON-LD, Open Graph meta tags, HTML5 Microdata, and visual region drag-selection regex extractors.
 2. **Tier 2 (AI-Powered Engine - Phase 2)**: Intelligent semantic understanding using **Chrome's Built-in Local AI (Gemini Nano)** or Bring-Your-Own-Key (BYOK) cloud LLMs (**Google Gemini**, **OpenAI**, **Anthropic Claude**, **Groq**, or local **Ollama** endpoints).
 
---
+-
 ## Featur
 
 ### ⚡ Mode A: "Extract Page" (100% Free & Local)
