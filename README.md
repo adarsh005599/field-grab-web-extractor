@@ -22,7 +22,7 @@ Extracts unstructured data using a visual drag selector:
   - **Projects & Startups** (`Building X`)
   - **Geographic Locations** (`Greater Delhi Area`, `Greater Noida`, etc.)
   - **Emails, Phones, URLs, Prices/Currencies, Connections, Raw Text**
-- **Multi-Region Append**: Drag-select multiple items across a page to accumulate them in one table.
+- **Multi-Region Append**: Drag-select multiple items across a page to accumulate them in one table
 
 ### 🤖 Mode C: "AI Extract" (Phase 2 Semantic Engine)
 Runs AI extraction on any full page or selected region:
