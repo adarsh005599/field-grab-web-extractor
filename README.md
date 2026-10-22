@@ -7,7 +7,7 @@ It features **two complementary extraction engines**:
 ## Featurs
 ### ⚡ Mode A: "Extract Page" (100% Free & Local)
 Scans the active document for embedded structured metadata:
-- **JSON-LD (`<script type="application/ld+json">`)**: Automatically detects, parses, and unpacks Schema.org schemas like `Person`, `JobPosting`, `Product`, `Organization`, `LocalBusiness`, `Article`, `NewsArticle`, and more.
+- **JSON-LD(`<script type="application/ld+json">`)**: Automatically detects, parses, and unpacks Schema.org schemas like `Person`, `JobPosting`, `Product`, `Organization`, `LocalBusiness`, `Article`, `NewsArticle`, and more.
 - **Open Graph & Meta Tags**: Extracts `og:title`, `og:description`, `og:image`, `og:type`, `og:site_name`, `twitter:*`, `author`, and `keywords`.
 - **HTML5 Microdata**: Discovers `itemscope`, `itemprop`, and `itemtype` trees.
 - **Landmark Heuristics**: Extracts landmark profile details on platforms like LinkedIn and GitHub.
