@@ -11,7 +11,6 @@ Scans the active document for embedded structured metadata:
 - **Open Graph & Meta Tags**: Extracts `og:title`, `og:description`, `og:image`, `og:type`, `og:site_name`, `twitter:*`, `author`, and `keywords`.
 - **HTML5 Microdata**: Discovers `itemscope`, `itemprop`, and `itemtype` trees.
 - **Landmark Heuristics**: Extracts landmark profile details on platforms like LinkedIn and GitHub.
-
 ### ⛶ Mode B: "Select Region" (100% Free Visual Drag Selector)
 Extracts unstructured data using a visual drag selector:
 - **Visual Drag Overlay**: Click and drag a rectangular bounding box over any section of the screen (e.g., bio card, directory listing, contact footer).
